@@ -25,7 +25,7 @@
             
         </div>
         <div class="container-fluid timer">
-            <span id="switchTimer">00:00</span>
+            <span id="switchTimer">10:00</span>
         </div>
         <div class="container-fluid game-area">
             <div class="row">
