@@ -28,8 +28,8 @@
                     <div id="team1Container" class="teambox police" style="color: white">
                         <div id="team1Caption" class="team-name">Полиция</div>
                         <ul>
-                            <li><span class="teambox-propname">Жизни</span><span class="teambox-propvalue">100</span></li>
-                            <li><span class="teambox-propname">Монеты</span><span class="teambox-propvalue">500</span></li>
+                            <li><span class="teambox-propname">Жизни</span><span class="teambox-propvalue"> 100</span></li>
+                            <li><span class="teambox-propname">Монеты</span><span class="teambox-propvalue"> 500</span></li>
                         </ul>
                     <div id="team1Players"></div>
                     </div>
