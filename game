@@ -142,19 +142,6 @@ B5Mj0iMjEiIC8+CjxsaW5lIHgxPSIyMiIgeTE9IjE3IiB4Mj0iMTgiIHkyPSIyMSIgLz4KPC9nP
 go8L3N2Zz4="/>
 </div>
 
-<!-- Scripts -->
-<script src="modernizr.js" type="text/javascript"></script>
-<script src="/js/jquery.js" type="text/javascript"></script>
-<script src="/js/jquery.signalR.js" type="text/javascript"></script>
-<!-- TODO: Раскомментировать при начале работы с сервером -->
-<script src="/js/bootstrap.js" type="text/javascript"></script>
-<script src="/js/gameApi.js" type="text/javascript"></script>
-<!-- TODO: Раскомментировать при начале работы с сервером -->
-<script src="sugar-1.4.1.min.js" type="text/javascript"></script>
-<script src="constants.js" type="text/javascript"></script>
-<script src="utils.js" type="text/javascript"></script>
-<script src="gameController.js" type="text/javascript"></script>
-<!-- TODO: Раскомментировать при начале работы с сервером -->
-<script src="game.js" type="text/javascript"></script>
+
 </body>
 </html>
