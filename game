@@ -16,7 +16,7 @@
 </head>
 <!-- TODO: Task 0. Построить вёрстку приложения по макету
           используя для сетки bootstrap -->
-<body style="background-color: #696969;">
+<body style="background-color: #516746;">
     <div class="container gamebox" id="game">
         <div class="container-fluid header">
             <h1 id="gameCaption" style="color: white; display: inline-block;">Полицейские и мошенники
