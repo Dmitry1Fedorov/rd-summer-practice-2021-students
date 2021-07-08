@@ -20,7 +20,7 @@
             
         </div>
         <div class="container-fluid timer">
-            <span id="switchTimer">10:00</span>
+            <span id="switchTimer"> 10:00</span>
         </div>
         <div class="container-fluid game-area">
             <div class="row">
@@ -41,8 +41,8 @@
                     <div id="team2Container" class="teambox thugs" style="color: white">
                         <div class="team-name">Мошенники</div>
                         <ul>
-                            <li><span class="teambox-propname">Жизни</span><span class="teambox-propvalue">100</span></li>
-                            <li><span class="teambox-propname">Монеты</span><span class="teambox-propvalue">500</span></li>
+                            <li><span class="teambox-propname">Жизни</span><span class="teambox-propvalue"> 100</span></li>
+                            <li><span class="teambox-propname">Монеты</span><span class="teambox-propvalue"> 500</span></li>
                         </ul>
                     <div id="team2Players"></div>
                     </div>
